@@ -1,0 +1,73 @@
+.Titulo{
+    font-size: 30px;
+    color: rgb(79, 3, 141)
+}
+.Imagen{
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+    object-fit: cover;
+}
+
+.DescripcionTexto{
+    font-size: 16px;
+    color: #333;
+    margin: 0 10px;
+}
+
+.Centrar {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 16px;
+    padding: 16px;
+    width: 100%;
+    box-sizing: border-box;
+    background: rgb(121, 74, 164);
+    border: 5px solid black;
+    border-radius: 15px;
+}
+
+.Contenedor {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding: 20px 0;
+    max-width: none;
+    margin: 0;
+}
+
+.Orga {
+    display: flex;
+    flex-direction: column;
+}
+
+.ZonaBoton {
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+
+.BotonImg {
+    width: 180px;
+    height: 180px;
+    object-fit: cover;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.IngredientesTexto {
+    font-size: 16px;
+    color: #000;
+    margin: 8px 10px 0;
+}
+
+.Imagen,
+.BotonImg {
+    transition: transform 0.3s;
+}
+
+.Imagen:hover,
+.BotonImg:hover {
+    transform: scale(1.1);
+}

@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "title": "Brownie de Chocolate",
+        "img": "/src/img/Brownie.jpeg",
+        "descripcion": "Un brownie húmedo y esponjoso, con un sabor intenso a chocolate y una textura suave por dentro. Tiene una corteza ligeramente crujiente y se disfruta tibio, solo o acompañado de una bola de helado de vainilla.",
+        "ingredientes": ["Chocolate", "Mantequilla", "Azúcar", "Huevos", "Harina"],
+        "color": "#ADFFEE"
+    },
+    {
+        "id": 2,
+        "title": "Donas",
+        "img": "/src/img/Donas.jpeg",
+        "descripcion": "Donas suaves y esponjosas, cubiertas con glaseado y toppings de colores, perfectas para compartir. Se preparan con una masa fermentada que se fríe hasta quedar dorada y se decoran con chispas, chocolate o azúcar.",
+        "ingredientes": ["Harina", "Leche", "Levadura", "Huevos", "Azúcar glass"],
+        "color": "#E0CCFF"
+    },
+    {
+        "id": 3,
+        "title": "Cheesecake",
+        "img": "/src/img/Cheesecake.jpeg",
+        "descripcion": "Un pastel cremoso de queso sobre una base crocante de galleta, con un toque dulce y suave. Se hornea o se deja reposar en frío y suele servirse con salsa o mermelada de frutos rojos por encima.",
+        "ingredientes": ["Queso crema", "Galletas", "Mantequilla", "Azúcar", "Huevos"],
+        "color": "#FACDC3"
+    },
+    {
+        "id": 4,
+        "title": "Flan",
+        "img": "/src/img/Flan.jpeg",
+        "descripcion": "Un postre suave y cremoso de huevo y leche, cubierto con caramelo dorado. Se cocina a baño maría para lograr una textura lisa y delicada, y se sirve frío para que el caramelo caiga por los lados.",
+        "ingredientes": ["Huevos", "Leche", "Azúcar", "Vainilla"],
+        "color": "#DAFAC3"
+    }
+]
